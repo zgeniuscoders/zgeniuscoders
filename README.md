@@ -1,35 +1,13 @@
-# zgeniumatondo
+# ZGenius Coders 🧞‍♂️
 
-This template should help get you started developing with Vue 3 in Vite.
+### Bienvenue sur mon portfolio
 
-## Recommended IDE Setup
+<p>Bienvenue sur mon profil Github ! Je suis un développeur passionné par le web et le mobile, avec une solide expérience dans la conception et la création d'applications robustes et performantes.</p>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<p>Je possède des compétences approfondies dans les technologies de développement web et mobile, notamment HTML, CSS, JavaScript, Python, Django, Vue, Node.js, PHP, Laravel, Android.</p>
 
-## Customize configuration
+<p>J'aime travailler en collaboration avec les équipes pour concevoir des solutions efficaces et innovantes, en utilisant les meilleures pratiques de développement et les technologies les plus récentes.</p>
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+<p>Je suis également adepte de l'apprentissage continu et je suis constamment en train de me former pour rester à jour sur les dernières tendances et évolutions du marché.</p>
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+<p>Si vous cherchez un développeur web et mobile passionné et expérimenté, n'hésitez pas à me contacter !</p>
